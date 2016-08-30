@@ -22,7 +22,7 @@ public class TheZoo {
 				DOA.readFromDB();
 				break;
 			case "2":
-				DOA.writeToDB();
+//				DOA.writeToDB();
 				break;
 			case "3":
 				DOA.deleteFromDatabase();
